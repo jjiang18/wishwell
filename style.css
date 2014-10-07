@@ -1,0 +1,62 @@
+.headerBackground{
+    background-color: lightblue;
+    height:100px;
+}
+.headerText{
+    font-size: 75;
+    font-family: Georgia,serif;
+    padding-left: 10%;
+    color: navy;
+}
+#loginArea{
+    height: 700px;
+}
+
+#loginImage {
+    height:700px;
+    width:1024px;
+    float:left;
+}
+
+.login {
+    height:700px;
+    width: 400px;
+    float:left;
+}
+#loginSec{
+    padding-left:50px;
+    padding-top:200px;
+}
+
+.register {
+    height:700px;
+    width: 400px;
+    float:left;
+}
+
+#registerSec{
+    padding-left:50px;
+    padding-top:200px;
+    float:left;
+}
+
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+
+.footBackground{
+    height:250px;
+    background-color:lightcyan;
+}
+
+.footInformation {
+    line-height: 30px;
+    margin-left: 5%;
+    height: 200px;
+    width: 30%;
+    float: right;
+}
+
